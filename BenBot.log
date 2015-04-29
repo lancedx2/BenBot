@@ -1,0 +1,873 @@
+[Tue, 28 Apr 2015 18:15:45 -0600]: 
+[Tue, 28 Apr 2015 18:26:36 -0600]: 
+[Tue, 28 Apr 2015 19:33:28 -0600]: 
+[Tue, 28 Apr 2015 19:47:40 -0600]: config.json did not parse properly. Check that it is valid JSON.
+[Tue, 28 Apr 2015 19:48:04 -0600]: config.json did not parse properly. Check that it is valid JSON.
+[Tue, 28 Apr 2015 22:57:07 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 22:57:07 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 22:57:43 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 22:57:43 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 22:58:03 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 22:58:03 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 22:58:38 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 22:58:38 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:02:25 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:02:25 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:02:25 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:03:57 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:03:57 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:03:57 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:05:07 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:05:07 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:05:07 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:06:43 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:06:43 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:06:43 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:07:08 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:07:08 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:07:08 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:13:25 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:13:25 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:13:25 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:14:12 -0600]: waiting for MOTD
+[Tue, 28 Apr 2015 23:14:13 -0600]: waiting for MOTD
+[Tue, 28 Apr 2015 23:14:14 -0600]: waiting for MOTD
+[Tue, 28 Apr 2015 23:14:15 -0600]: waiting for MOTD
+[Tue, 28 Apr 2015 23:14:16 -0600]: waiting for MOTD
+[Tue, 28 Apr 2015 23:21:11 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:21:11 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:21:11 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:22:47 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:22:47 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:22:47 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:25:01 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:25:01 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:25:01 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:26:02 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:26:02 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:26:02 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:30:24 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:30:24 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:30:24 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:32:00 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:32:00 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:32:02 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:32:02 -0600]: :+i
+[Tue, 28 Apr 2015 23:32:02 -0600]: :Welcome
+[Tue, 28 Apr 2015 23:32:02 -0600]: and
+[Tue, 28 Apr 2015 23:32:02 -0600]: 
+[Tue, 28 Apr 2015 23:32:02 -0600]: =
+[Tue, 28 Apr 2015 23:32:02 -0600]: #orbsix
+[Tue, 28 Apr 2015 23:32:18 -0600]: :Boo
+[Tue, 28 Apr 2015 23:32:29 -0600]: :~chimp
+[Tue, 28 Apr 2015 23:38:36 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:38:36 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:38:36 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:39:00 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:39:00 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:39:00 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:39:00 -0600]: RECV: :C3PO MODE C3PO :+i
+
+[Tue, 28 Apr 2015 23:39:00 -0600]: RECV: :NickServ!NickServ@services.int NOTICE C3PO :Welcome to OrbSix, C3PO! Here on OrbSix, we provide services to enable the registr
+[Tue, 28 Apr 2015 23:39:00 -0600]: RECV: ation of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+
+[Tue, 28 Apr 2015 23:39:00 -0600]: RECV: :C3PO!~C3PO@localhost JOIN #orbsix
+
+[Tue, 28 Apr 2015 23:39:00 -0600]: RECV: :irc.orbsix.com 353 C3PO = #orbsix :C3PO @Lance Ben Josh @ChanServ kevin
+
+[Tue, 28 Apr 2015 23:39:00 -0600]: RECV: :irc.orbsix.com 366 C3PO #orbsix :End of /NAMES list.
+
+[Tue, 28 Apr 2015 23:39:11 -0600]: RECV: :Lance!~Lance@c-76-27-24-109.hsd1.ut.comcast.net PRIVMSG #orbsix :hello
+
+[Tue, 28 Apr 2015 23:39:39 -0600]: RECV: :Lance!~Lance@c-76-27-24-109.hsd1.ut.comcast.net PRIVMSG #orbsix :~jump
+
+[Tue, 28 Apr 2015 23:41:30 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:41:30 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:41:30 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:41:30 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:41:30 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:41:30 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:41:30 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:41:30 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:41:30 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:42:00 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:42:00 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:42:00 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:42:00 -0600]: RECV: :+i
+
+[Tue, 28 Apr 2015 23:42:00 -0600]: RECV: :Welcome
+[Tue, 28 Apr 2015 23:42:00 -0600]: RECV: and
+[Tue, 28 Apr 2015 23:42:00 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:42:00 -0600]: RECV: =
+[Tue, 28 Apr 2015 23:42:00 -0600]: RECV: #orbsix
+[Tue, 28 Apr 2015 23:42:14 -0600]: RECV: :bump
+
+[Tue, 28 Apr 2015 23:42:22 -0600]: COMMAND: ~jump
+
+[Tue, 28 Apr 2015 23:42:22 -0600]: RECV: :~jump
+
+[Tue, 28 Apr 2015 23:43:33 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:43:33 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:43:34 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:43:34 -0600]: RECV: :+i
+
+[Tue, 28 Apr 2015 23:43:34 -0600]: RECV: :Welcome
+[Tue, 28 Apr 2015 23:43:34 -0600]: RECV: and
+[Tue, 28 Apr 2015 23:43:34 -0600]: RECV: 
+[Tue, 28 Apr 2015 23:43:34 -0600]: RECV: =
+[Tue, 28 Apr 2015 23:43:34 -0600]: RECV: #orbsix
+[Tue, 28 Apr 2015 23:43:42 -0600]: COMMAND: beep
+
+[Tue, 28 Apr 2015 23:43:42 -0600]: RECV: :~beep
+
+[Tue, 28 Apr 2015 23:43:47 -0600]: RECV: :!beep
+
+[Tue, 28 Apr 2015 23:43:55 -0600]: RECV: :!boop
+
+[Tue, 28 Apr 2015 23:43:59 -0600]: COMMAND: boop
+
+[Tue, 28 Apr 2015 23:43:59 -0600]: RECV: :~boop
+
+[Tue, 28 Apr 2015 23:46:03 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:46:03 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:46:03 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:46:11 -0600]: COMMAND: stupid
+
+[Tue, 28 Apr 2015 23:50:49 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:50:49 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:50:49 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:50:56 -0600]: COMMAND: milk
+
+[Tue, 28 Apr 2015 23:50:56 -0600]: 	PARAM: :~milk
+
+[Tue, 28 Apr 2015 23:51:15 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Tue, 28 Apr 2015 23:51:15 -0600]: SENDING: NICK | C3PO
+[Tue, 28 Apr 2015 23:51:15 -0600]: SENDING: JOIN | #orbsix
+[Tue, 28 Apr 2015 23:51:23 -0600]: COMMAND: milk
+
+[Tue, 28 Apr 2015 23:51:32 -0600]: COMMAND: milk
+[Tue, 28 Apr 2015 23:51:32 -0600]: 	PARAM: cows
+
+[Tue, 28 Apr 2015 23:51:40 -0600]: COMMAND: milk
+[Tue, 28 Apr 2015 23:51:40 -0600]: 	PARAM: cows
+[Tue, 28 Apr 2015 23:51:40 -0600]: 	PARAM: now
+
+[Tue, 28 Apr 2015 23:51:51 -0600]: COMMAND: insult
+[Tue, 28 Apr 2015 23:51:51 -0600]: 	PARAM: Ben
+[Tue, 28 Apr 2015 23:51:51 -0600]: 	PARAM: Josh
+
+[Wed, 29 Apr 2015 00:04:45 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:04:45 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:04:45 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:06:28 -0600]: COMMAND: stupi
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 	
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 				
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 	
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 	
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 	
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 		
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 	
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 		
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 
+[Wed, 29 Apr 2015 00:06:28 -0600]: 	PARAM: 		
+
+[Wed, 29 Apr 2015 00:06:42 -0600]: COMMAND: test
+
+[Wed, 29 Apr 2015 00:06:49 -0600]: COMMAND: test
+[Wed, 29 Apr 2015 00:06:49 -0600]: 	PARAM: one
+[Wed, 29 Apr 2015 00:06:49 -0600]: 	PARAM: two
+[Wed, 29 Apr 2015 00:06:49 -0600]: 	PARAM: three
+
+[Wed, 29 Apr 2015 00:06:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 00:09:38 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:09:38 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:09:38 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:09:47 -0600]: COMMAND: test
+
+[Wed, 29 Apr 2015 00:09:47 -0600]: lib/commands/test
+.class.php does not exist.
+[Wed, 29 Apr 2015 00:19:42 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:19:42 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:19:44 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:20:09 -0600]: COMMAND: quote~test
+
+[Wed, 29 Apr 2015 00:20:09 -0600]: lib/commands/quote~test
+/quote~test
+.class.php does not exist.
+[Wed, 29 Apr 2015 00:20:23 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:20:23 -0600]: lib/commands/quote
+/quote
+.class.php does not exist.
+[Wed, 29 Apr 2015 00:23:36 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:23:36 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:23:37 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:23:42 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:23:42 -0600]: 
+[Wed, 29 Apr 2015 00:25:51 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:25:51 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:25:52 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:26:00 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:26:00 -0600]: 
+[Wed, 29 Apr 2015 00:26:12 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:26:12 -0600]: 
+[Wed, 29 Apr 2015 00:28:51 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:28:51 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:28:51 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:28:57 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:28:57 -0600]: Array
+(
+    [0] => Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.
+    [1] => I suggest a new strategy, Artoo: let the Wookie win.
+    [2] => Sir, it's very possible this asteroid is not stable.
+    [3] => Don't you call me a mindless philosopher you overweight glob of grease!
+    [4] => R2 says the chances of survival are 725... to one
+    [5] => Wait. Oh My ! What have you done. I'm backwards you filthy furball
+    [6] => We're doomed!
+    [7] => R2-D2, where are you?
+    [8] => R2-D2, it is you, It Is You!
+    [9] => Excuse me sir, but that R2-D2 is in prime condition, a real bargain
+    [10] => If I told you half the things I've heard about this Jabba the Hutt, you'd probably short circuit
+    [11] => Die Jedi Dogs! Oh what did I say?
+    [12] => R2D2! You know better than to trust a strange computer!
+    [13] => I can assure you they will never get me onto one of those dreadful starships!
+    [14] => I beg your pardon, but what do you mean, "naked?".. My parts are showing? Oh, my goodness, oh!
+    [15] => You will therefore be taken to the Dune Sea, and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlaac.
+    [16] => His high exaltedness, the Great Jabba the Hutt, has decreed that you are to be terminated immediately.
+    [17] => In his belly you will find a new definition of pain and suffering as you are slowly digested over a thousand years.
+    [18] => It's against my programming to impersonate a deity.
+    [19] => If I may say so, sir, I noticed earlier the hyperdrive motivator has been damaged. It's impossible to go to lightspeed.
+    [20] => Oh, yes, that's much better... Something's not right, because now I can't see. Oh, oh, yes, that's much better. Wait... wait. Oh, my. What have you done? I'm BACKWARDS. You flea-bitten furball. Only an overgrown mop-head like you would be stupid enough to...
+    [21] => Oh. They've encased him in Carbonite. He should be quite well protected. If he survived the freezing process, that is.
+    [22] => Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal!
+    [23] => Sir, it's quite possible this asteroid is not entirely stable.
+    [24] => Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1!
+    [25] => Listen to them, they're dying, R2. Curse my metal body. I wasn't fast enough. It's all my fault. My poor master!
+    [26] => Just you reconsider playing that message for him! No, I don't think he likes you at all. No, I don't like you either.
+    [27] => I would much rather have gone with Master Luke than stay here with you. I don't know what all this trouble is about, but I'm sure it must be your fault!
+)
+
+[Wed, 29 Apr 2015 00:30:21 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:30:21 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:30:21 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:30:27 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:30:27 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 00:32:44 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:32:44 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:32:44 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:32:49 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:32:49 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 00:32:49 -0600]: 0
+[Wed, 29 Apr 2015 00:32:54 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:32:54 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 00:32:54 -0600]: 0
+[Wed, 29 Apr 2015 00:32:56 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:32:56 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 00:32:56 -0600]: 0
+[Wed, 29 Apr 2015 00:38:26 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:38:26 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:38:26 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:38:33 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:38:33 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 00:38:33 -0600]: SENDING: PRIVMSG #orbsix :R2D2! You know better than to trust a strange computer! | 
+[Wed, 29 Apr 2015 00:38:44 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 00:38:44 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 00:38:44 -0600]: SENDING: PRIVMSG #orbsix :Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1! | 
+[Wed, 29 Apr 2015 00:39:36 -0600]: COMMAND: say
+
+[Wed, 29 Apr 2015 00:39:36 -0600]: lib/commands/say/say.class.php does not exist.
+[Wed, 29 Apr 2015 00:40:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 00:42:44 -0600]: COMMAND: say
+[Wed, 29 Apr 2015 00:42:44 -0600]: 	PARAM: I
+[Wed, 29 Apr 2015 00:42:44 -0600]: 	PARAM: love
+[Wed, 29 Apr 2015 00:42:44 -0600]: 	PARAM: monkeys
+
+[Wed, 29 Apr 2015 00:42:44 -0600]: SENDING: PRIVMSG #orbsix :I love monkeys
+  | 
+[Wed, 29 Apr 2015 00:44:29 -0600]: COMMAND: shout
+[Wed, 29 Apr 2015 00:44:29 -0600]: 	PARAM: I
+[Wed, 29 Apr 2015 00:44:29 -0600]: 	PARAM: love
+[Wed, 29 Apr 2015 00:44:29 -0600]: 	PARAM: freaking
+[Wed, 29 Apr 2015 00:44:29 -0600]: 	PARAM: monkeys
+
+[Wed, 29 Apr 2015 00:44:29 -0600]: SENDING: PRIVMSG #orbsix :I LOVE FREAKING MONKEYS
+ !!! | 
+[Wed, 29 Apr 2015 00:45:31 -0600]: COMMAND: shout
+[Wed, 29 Apr 2015 00:45:31 -0600]: 	PARAM: I
+[Wed, 29 Apr 2015 00:45:31 -0600]: 	PARAM: love
+[Wed, 29 Apr 2015 00:45:31 -0600]: 	PARAM: freaking
+[Wed, 29 Apr 2015 00:45:31 -0600]: 	PARAM: monkeys
+
+[Wed, 29 Apr 2015 00:45:31 -0600]: SENDING: PRIVMSG #orbsix :I LOVE FREAKING MONKEYS
+ !!! | 
+[Wed, 29 Apr 2015 00:47:33 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 00:49:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 00:50:37 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:50:37 -0600]: found 610 jokes!
+[Wed, 29 Apr 2015 00:50:37 -0600]: SENDING: PRIVMSG #orbsix :Chuck Norris's testicles do not produce sperm. They produce tiny white ninjas that recognize only one mission: seek and destroy. | 
+[Wed, 29 Apr 2015 00:51:15 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:51:15 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:51:15 -0600]: SENDING: PRIVMSG #orbsix :There is no theory of evolution. Just a list of animals Chuck Norris allows to live. | 
+[Wed, 29 Apr 2015 00:51:23 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:51:23 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:51:23 -0600]: SENDING: PRIVMSG #orbsix :According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday. | 
+[Wed, 29 Apr 2015 00:53:33 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 00:55:35 -0600]: COMMAND: sunset
+
+[Wed, 29 Apr 2015 00:56:26 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 00:56:26 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 00:56:26 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 00:56:46 -0600]: COMMAND: sunset
+
+[Wed, 29 Apr 2015 00:56:46 -0600]: SENDING: PRIVMSG #orbsix :The sun will set at 09:17 | 
+[Wed, 29 Apr 2015 00:57:19 -0600]: COMMAND: sunset
+
+[Wed, 29 Apr 2015 00:57:19 -0600]: SENDING: PRIVMSG #orbsix :The sun will set at 09:17 | 
+[Wed, 29 Apr 2015 00:57:43 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:57:43 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:57:43 -0600]: SENDING: PRIVMSG #orbsix :Chuck Norris once played 18 holes of golf using a 12 inch strip of rebar and a sun dried tomato. He shot a 54. | 
+[Wed, 29 Apr 2015 00:57:45 -0600]: COMMAND: fart
+
+[Wed, 29 Apr 2015 00:57:45 -0600]: lib/commands/fart/fart.class.php does not exist.
+[Wed, 29 Apr 2015 00:59:01 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:01 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:01 -0600]: SENDING: PRIVMSG #orbsix :Chuck Norris? hand is the only hand that can beat a Royal Flush. | 
+[Wed, 29 Apr 2015 00:59:15 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:15 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:15 -0600]: SENDING: PRIVMSG #orbsix :The Chuck Norris military unit was not used in the game Civilization 4, because a single Chuck Norris could defeat the entire combined nations of the world in one turn. | 
+[Wed, 29 Apr 2015 00:59:28 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:28 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:28 -0600]: SENDING: PRIVMSG #orbsix :The original title for Alien vs. Predator was Alien and Predator vs Chuck Norris. The film was cancelled shortly after going into preproduction. No one would pay nine dollars to see a movie fourteen seconds long. | 
+[Wed, 29 Apr 2015 00:59:37 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:37 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:37 -0600]: SENDING: PRIVMSG #orbsix :Chuck Norris once played Russian roulette with a fully load gun and won. | 
+[Wed, 29 Apr 2015 00:59:40 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:40 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:40 -0600]: SENDING: PRIVMSG #orbsix :Chuck Norris has banned rainbows from the state of North Dakota. | 
+[Wed, 29 Apr 2015 00:59:45 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:45 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:45 -0600]: SENDING: PRIVMSG #orbsix :It takes Chuck Norris 20 minutes to watch 60 Minutes. | 
+[Wed, 29 Apr 2015 00:59:48 -0600]: COMMAND: joke
+
+[Wed, 29 Apr 2015 00:59:48 -0600]: found 608 jokes!
+[Wed, 29 Apr 2015 00:59:48 -0600]: SENDING: PRIVMSG #orbsix :Chuck Norris doesn't go on the internet, he has every internet site stored in his memory. He refreshes webpages by blinking. | 
+[Wed, 29 Apr 2015 01:01:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:04:13 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:06:33 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:08:22 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:08:22 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:08:22 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:08:22 -0600]: SENDING: PRIVMSG #orbsix :Oh. They've encased Lance
+ in Carbonite. He should be quite well protected. If he survived the freezing process, that is.  | 
+[Wed, 29 Apr 2015 01:08:32 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:08:32 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:08:32 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:08:32 -0600]: SENDING: PRIVMSG #orbsix :Lance
+, You’ll be malfunctioning within a day, you nearsighted scrap pile! | 
+[Wed, 29 Apr 2015 01:08:34 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:08:34 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:08:34 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:08:34 -0600]: SENDING: PRIVMSG #orbsix :Lance
+, I don't know where your ship learned to communicate, but it has the most peculiar dialect. | 
+[Wed, 29 Apr 2015 01:08:36 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:08:36 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:08:36 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:08:36 -0600]: SENDING: PRIVMSG #orbsix :I'm terribly sorry about all this. After all, Lance
+ is only a Wookiee!  | 
+[Wed, 29 Apr 2015 01:10:24 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:10:24 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:10:24 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:10:24 -0600]: SENDING: PRIVMSG #orbsix :Lance
+ makes Jar-jar look smart! | 
+[Wed, 29 Apr 2015 01:10:32 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:10:32 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:10:32 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:10:32 -0600]: SENDING: PRIVMSG #orbsix :I’m rather embarrassed, General Lance
+, but it appears you are to be the main course at a banquet in my honor. | 
+[Wed, 29 Apr 2015 01:10:57 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:10:57 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:10:57 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:10:57 -0600]: SENDING: PRIVMSG #orbsix :Yoda is a sexy supermodel when compared to Lance
+ | 
+[Wed, 29 Apr 2015 01:10:59 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:10:59 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:10:59 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:10:59 -0600]: SENDING: PRIVMSG #orbsix :Lance
+, You’ll be malfunctioning within a day, you nearsighted scrap pile! | 
+[Wed, 29 Apr 2015 01:11:01 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:11:01 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:11:01 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:11:01 -0600]: SENDING: PRIVMSG #orbsix :I'm terribly sorry about all this. After all, Lance
+ is only a Wookiee!  | 
+[Wed, 29 Apr 2015 01:12:27 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:12:27 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:12:27 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:12:27 -0600]: SENDING: PRIVMSG #orbsix :Lance
+, You’ll be malfunctioning within a day, you nearsighted scrap pile! | 
+[Wed, 29 Apr 2015 01:12:31 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:12:31 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:12:31 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:12:31 -0600]: SENDING: PRIVMSG #orbsix :Lance
+, You’ll be malfunctioning within a day, you nearsighted scrap pile! | 
+[Wed, 29 Apr 2015 01:13:00 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 01:13:00 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 01:13:00 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 01:13:03 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:03 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:03 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:03 -0600]: SENDING: PRIVMSG #orbsix :Lance, I don't know where your ship learned to communicate, but it has the most peculiar dialect. | 
+[Wed, 29 Apr 2015 01:13:11 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:11 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:11 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:11 -0600]: SENDING: PRIVMSG #orbsix :I thought that hairy beast, Lance, would be the end of me. | 
+[Wed, 29 Apr 2015 01:13:15 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:15 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:15 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:15 -0600]: SENDING: PRIVMSG #orbsix :I’m rather embarrassed, General Lance, but it appears you are to be the main course at a banquet in my honor. | 
+[Wed, 29 Apr 2015 01:13:35 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:35 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:35 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:35 -0600]: SENDING: PRIVMSG #orbsix :I’m rather embarrassed, General Lance, but it appears you are to be the main course at a banquet in my honor. | 
+[Wed, 29 Apr 2015 01:13:37 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:37 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:37 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:37 -0600]: SENDING: PRIVMSG #orbsix :Oh. They've encased Lance in Carbonite. He should be quite well protected. If he survived the freezing process, that is.  | 
+[Wed, 29 Apr 2015 01:13:43 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:43 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:43 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:43 -0600]: SENDING: PRIVMSG #orbsix :Yoda is a sexy supermodel when compared to Lance | 
+[Wed, 29 Apr 2015 01:13:46 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:46 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:46 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:46 -0600]: SENDING: PRIVMSG #orbsix :I thought that hairy beast, Lance, would be the end of me. | 
+[Wed, 29 Apr 2015 01:13:47 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:47 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:47 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:47 -0600]: SENDING: PRIVMSG #orbsix :I'm terribly sorry about all this. After all, Lance is only a Wookiee!  | 
+[Wed, 29 Apr 2015 01:13:49 -0600]: COMMAND: insult
+[Wed, 29 Apr 2015 01:13:49 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:13:49 -0600]: found 8 insults!
+[Wed, 29 Apr 2015 01:13:49 -0600]: SENDING: PRIVMSG #orbsix :Yoda is a sexy supermodel when compared to Lance | 
+[Wed, 29 Apr 2015 01:15:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:18:13 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:18:15 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:15 -0600]: 	PARAM: lance
+
+[Wed, 29 Apr 2015 01:18:15 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:15 -0600]: SENDING: PRIVMSG #orbsix :lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:18:26 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:26 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:26 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:26 -0600]: SENDING: PRIVMSG #orbsix :Lance's milkshake brings all the wookies to the yard! | 
+[Wed, 29 Apr 2015 01:18:32 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:32 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:32 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:32 -0600]: SENDING: PRIVMSG #orbsix :Lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:18:35 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:35 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:35 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:35 -0600]: SENDING: PRIVMSG #orbsix :Lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:18:36 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:36 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:36 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:36 -0600]: SENDING: PRIVMSG #orbsix :Lance's milkshake brings all the wookies to the yard! | 
+[Wed, 29 Apr 2015 01:18:38 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:38 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:38 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:38 -0600]: SENDING: PRIVMSG #orbsix :Master Lance, sir, it’s good to see you fully functional again. | 
+[Wed, 29 Apr 2015 01:18:40 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:40 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:40 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:40 -0600]: SENDING: PRIVMSG #orbsix :Don’t worry about Master Lance. I’m sure he’ll be all right. He’s quite clever, you know…for a human being. | 
+[Wed, 29 Apr 2015 01:18:42 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:42 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:42 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:42 -0600]: SENDING: PRIVMSG #orbsix :Well, Lance seems very friendly. | 
+[Wed, 29 Apr 2015 01:18:45 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:45 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:45 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:45 -0600]: SENDING: PRIVMSG #orbsix :Lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:18:46 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:46 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:46 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:46 -0600]: SENDING: PRIVMSG #orbsix :Lance's milkshake brings all the wookies to the yard! | 
+[Wed, 29 Apr 2015 01:18:47 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:47 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:47 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:47 -0600]: SENDING: PRIVMSG #orbsix :Lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:18:48 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:48 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:48 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:48 -0600]: SENDING: PRIVMSG #orbsix :Lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:18:49 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:49 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:49 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:49 -0600]: SENDING: PRIVMSG #orbsix :Don’t worry about Master Lance. I’m sure he’ll be all right. He’s quite clever, you know…for a human being. | 
+[Wed, 29 Apr 2015 01:18:50 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:50 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:50 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:50 -0600]: SENDING: PRIVMSG #orbsix :Master Lance, sir, it’s good to see you fully functional again. | 
+[Wed, 29 Apr 2015 01:18:51 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:51 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:51 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:51 -0600]: SENDING: PRIVMSG #orbsix :Master Lance, sir, it’s good to see you fully functional again. | 
+[Wed, 29 Apr 2015 01:18:52 -0600]: COMMAND: praise
+[Wed, 29 Apr 2015 01:18:52 -0600]: 	PARAM: Lance
+
+[Wed, 29 Apr 2015 01:18:52 -0600]: found 6 praises!
+[Wed, 29 Apr 2015 01:18:52 -0600]: SENDING: PRIVMSG #orbsix :Lance, The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand. | 
+[Wed, 29 Apr 2015 01:20:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:37:06 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 01:37:06 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 01:37:08 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 01:37:17 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 01:37:17 -0600]: 	PARAM: RI-1035
+
+[Wed, 29 Apr 2015 01:38:05 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 01:38:05 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 01:38:05 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 01:38:10 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 01:38:10 -0600]: 	PARAM: RI-1035
+
+[Wed, 29 Apr 2015 01:38:10 -0600]: Array
+(
+    [status] => Live
+    [summary] => Creating a FTP file for DB Schenkers 
+)
+
+[Wed, 29 Apr 2015 01:40:07 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 01:40:07 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 01:40:07 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 01:40:11 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 01:40:11 -0600]: 	PARAM: RI-1035
+
+[Wed, 29 Apr 2015 01:40:11 -0600]: SENDING: PRIVMSG #orbsix : Project "Creating a FTP file for DB Schenkers " is Live | 
+[Wed, 29 Apr 2015 01:40:29 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 01:40:29 -0600]: 	PARAM: ri-1035
+
+[Wed, 29 Apr 2015 01:40:29 -0600]: SENDING: PRIVMSG #orbsix : Project "Creating a FTP file for DB Schenkers " is Live | 
+[Wed, 29 Apr 2015 01:40:42 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 01:40:42 -0600]: 	PARAM: al-215
+
+[Wed, 29 Apr 2015 01:40:42 -0600]: SENDING: PRIVMSG #orbsix : Project "Rep site language parameter on enroll" is Live | 
+[Wed, 29 Apr 2015 01:41:26 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 01:41:26 -0600]: 	PARAM: oi-143
+
+[Wed, 29 Apr 2015 01:41:26 -0600]: SENDING: PRIVMSG #orbsix : Project "Audit Logs" is In Progress | 
+[Wed, 29 Apr 2015 01:43:33 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:45:53 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:47:03 -0600]: COMMAND: help
+
+[Wed, 29 Apr 2015 01:47:03 -0600]: SENDING: PRIVMSG #orbsix : Current available commands are: help insult joke praise project quote say shout sunset  | 
+[Wed, 29 Apr 2015 01:48:03 -0600]: COMMAND: help
+
+[Wed, 29 Apr 2015 01:48:03 -0600]: SENDING: PRIVMSG #orbsix : Current available commands are: help insult joke praise project quote say shout sunset  | 
+[Wed, 29 Apr 2015 01:50:13 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:52:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:54:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:56:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 01:59:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 02:01:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 02:03:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 08:50:49 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 08:50:49 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 08:50:52 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 08:51:04 -0600]: COMMAND: quote
+
+[Wed, 29 Apr 2015 08:51:04 -0600]: found 28 quotes!
+[Wed, 29 Apr 2015 08:51:04 -0600]: SENDING: PRIVMSG #orbsix :Die Jedi Dogs! Oh what did I say? | 
+[Wed, 29 Apr 2015 08:51:15 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 08:51:15 -0600]: 	PARAM: ri-1024
+
+[Wed, 29 Apr 2015 08:51:15 -0600]: SENDING: PRIVMSG #orbsix : Project "Report: Event reports support implement" is Live | 
+[Wed, 29 Apr 2015 08:51:28 -0600]: COMMAND: help
+
+[Wed, 29 Apr 2015 08:51:28 -0600]: SENDING: PRIVMSG #orbsix : Current available commands are: help insult joke praise project quote say shout sunset  | 
+[Wed, 29 Apr 2015 08:53:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 08:55:22 -0600]: COMMAND: bugs
+
+[Wed, 29 Apr 2015 08:55:22 -0600]: lib/commands/bugs/bugs.class.php does not exist.
+[Wed, 29 Apr 2015 08:55:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 08:58:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:00:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:02:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:05:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:07:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:09:31 -0600]: COMMAND: help
+
+[Wed, 29 Apr 2015 09:09:31 -0600]: SENDING: PRIVMSG #orbsix : Current available commands are: help insult joke praise project quote say shout sunset  | 
+[Wed, 29 Apr 2015 09:09:38 -0600]: COMMAND: sunset
+
+[Wed, 29 Apr 2015 09:09:38 -0600]: SENDING: PRIVMSG #orbsix :The sun will set at 09:17 | 
+[Wed, 29 Apr 2015 09:11:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:14:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:14:57 -0600]: COMMAND: help
+
+[Wed, 29 Apr 2015 09:14:57 -0600]: SENDING: PRIVMSG #orbsix : Current available commands are: help insult joke praise project quote say shout sunset  | 
+[Wed, 29 Apr 2015 09:15:48 -0600]: COMMAND: shout
+[Wed, 29 Apr 2015 09:15:48 -0600]: 	PARAM: josh
+[Wed, 29 Apr 2015 09:15:48 -0600]: 	PARAM: is
+[Wed, 29 Apr 2015 09:15:48 -0600]: 	PARAM: a
+[Wed, 29 Apr 2015 09:15:48 -0600]: 	PARAM: nerd
+
+[Wed, 29 Apr 2015 09:15:48 -0600]: SENDING: PRIVMSG #orbsix :JOSH IS A NERD | 
+[Wed, 29 Apr 2015 09:17:42 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:17:42 -0600]: 	PARAM: ri-1068
+
+[Wed, 29 Apr 2015 09:17:42 -0600]: SENDING: PRIVMSG #orbsix : Project "Fwd: Typo in an error message" is Live | 
+[Wed, 29 Apr 2015 09:17:51 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:17:51 -0600]: 	PARAM: ri-1070
+
+[Wed, 29 Apr 2015 09:17:51 -0600]: SENDING: PRIVMSG #orbsix : Project "landmark export changes" is QA | 
+[Wed, 29 Apr 2015 09:19:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:22:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:24:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:24:34 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:24:34 -0600]: 	PARAM: ri-1088
+
+[Wed, 29 Apr 2015 09:24:35 -0600]: SENDING: PRIVMSG C3PO : Project "Research, new payment gateway for Thailand." is In Progress | 
+[Wed, 29 Apr 2015 09:26:45 -0600]: COMMAND: say
+[Wed, 29 Apr 2015 09:26:45 -0600]: 	PARAM: hi
+[Wed, 29 Apr 2015 09:26:45 -0600]: 	PARAM: to
+[Wed, 29 Apr 2015 09:26:45 -0600]: 	PARAM: Kevin
+
+[Wed, 29 Apr 2015 09:26:45 -0600]: SENDING: PRIVMSG #orbsix :hi to Kevin
+  | 
+[Wed, 29 Apr 2015 09:26:55 -0600]: COMMAND: shout
+[Wed, 29 Apr 2015 09:26:55 -0600]: 	PARAM: I
+[Wed, 29 Apr 2015 09:26:55 -0600]: 	PARAM: love
+[Wed, 29 Apr 2015 09:26:55 -0600]: 	PARAM: Kevin
+
+[Wed, 29 Apr 2015 09:26:55 -0600]: SENDING: PRIVMSG #orbsix :I LOVE KEVIN | 
+[Wed, 29 Apr 2015 09:29:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:31:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:36:11 -0600]: SENDING: USER | C3PO irc.orbsix.com C3PO :C3PO
+[Wed, 29 Apr 2015 09:36:11 -0600]: SENDING: NICK | C3PO
+[Wed, 29 Apr 2015 09:36:12 -0600]: SENDING: JOIN | #orbsix
+[Wed, 29 Apr 2015 09:36:29 -0600]: COMMAND: help
+
+[Wed, 29 Apr 2015 09:36:29 -0600]: SENDING: PRIVMSG #orbsix : Current available commands are: help insult joke praise project quote say shout sunset  | 
+[Wed, 29 Apr 2015 09:36:35 -0600]: COMMAND: sunset
+
+[Wed, 29 Apr 2015 09:36:35 -0600]: SENDING: PRIVMSG #orbsix :The sun will set at 09:17 | 
+[Wed, 29 Apr 2015 09:37:26 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:37:26 -0600]: 	PARAM: ri-1055
+
+[Wed, 29 Apr 2015 09:37:26 -0600]: SENDING: PRIVMSG #orbsix : Project "Report needs a country picker" is Live | 
+[Wed, 29 Apr 2015 09:37:32 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:37:32 -0600]: 	PARAM: ri-1078
+
+[Wed, 29 Apr 2015 09:37:32 -0600]: SENDING: PRIVMSG #orbsix : Project "Extra Samples:  ID 189790" is Live | 
+[Wed, 29 Apr 2015 09:37:35 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:37:35 -0600]: 	PARAM: ri-1088
+
+[Wed, 29 Apr 2015 09:37:35 -0600]: SENDING: PRIVMSG #orbsix : Project "Research, new payment gateway for Thailand." is In Progress | 
+[Wed, 29 Apr 2015 09:39:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:42:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:44:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:46:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:49:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:50:43 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 09:50:43 -0600]: 	PARAM: ri-1088
+
+[Wed, 29 Apr 2015 09:50:43 -0600]: SENDING: PRIVMSG #orbsix : Project "Research, new payment gateway for Thailand." is In Progress | 
+[Wed, 29 Apr 2015 09:52:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:55:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:57:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 09:59:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:02:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:04:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:06:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:09:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:11:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:13:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:16:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:18:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:20:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:21:39 -0600]: COMMAND: shout
+[Wed, 29 Apr 2015 10:21:39 -0600]: 	PARAM: Kevin,
+[Wed, 29 Apr 2015 10:21:39 -0600]: 	PARAM: lance
+[Wed, 29 Apr 2015 10:21:39 -0600]: 	PARAM: is
+[Wed, 29 Apr 2015 10:21:39 -0600]: 	PARAM: sorry!
+
+[Wed, 29 Apr 2015 10:21:39 -0600]: SENDING: PRIVMSG #orbsix :KEVIN, LANCE IS SORRY! | 
+[Wed, 29 Apr 2015 10:23:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:26:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:28:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:30:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:33:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:35:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:37:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:40:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:42:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:44:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:47:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:47:52 -0600]: COMMAND: say
+[Wed, 29 Apr 2015 10:47:52 -0600]: 	PARAM: chirp
+[Wed, 29 Apr 2015 10:47:52 -0600]: 	PARAM: chirp
+
+[Wed, 29 Apr 2015 10:47:52 -0600]: SENDING: PRIVMSG #orbsix :chirp chirp
+  | 
+[Wed, 29 Apr 2015 10:48:27 -0600]: COMMAND: say
+[Wed, 29 Apr 2015 10:48:27 -0600]: 	PARAM: I'll
+[Wed, 29 Apr 2015 10:48:27 -0600]: 	PARAM: talk
+[Wed, 29 Apr 2015 10:48:27 -0600]: 	PARAM: to
+[Wed, 29 Apr 2015 10:48:27 -0600]: 	PARAM: you
+[Wed, 29 Apr 2015 10:48:27 -0600]: 	PARAM: Lance
+[Wed, 29 Apr 2015 10:48:27 -0600]: 	PARAM: 
+
+[Wed, 29 Apr 2015 10:48:27 -0600]: SENDING: PRIVMSG #orbsix :I'll talk to you Lance 
+  | 
+[Wed, 29 Apr 2015 10:48:57 -0600]: COMMAND: say
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: As
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: long
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: as
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: you
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: aren't
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: on
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: the
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: dark
+[Wed, 29 Apr 2015 10:48:57 -0600]: 	PARAM: side.
+
+[Wed, 29 Apr 2015 10:48:57 -0600]: SENDING: PRIVMSG #orbsix :As long as you aren't on the dark side.
+  | 
+[Wed, 29 Apr 2015 10:51:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:53:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:55:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 10:58:05 -0600]: COMMAND: project
+[Wed, 29 Apr 2015 10:58:05 -0600]: 	PARAM: AL-402
+
+[Wed, 29 Apr 2015 10:58:06 -0600]: SENDING: PRIVMSG #orbsix : Project "Mexico Bank Deposit payment type" is Open | 
+[Wed, 29 Apr 2015 11:00:14 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 11:02:34 -0600]: SENDING: PONG | :irc.orbsix.com
+
+[Wed, 29 Apr 2015 11:04:54 -0600]: SENDING: PONG | :irc.orbsix.com
+
