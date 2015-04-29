@@ -4,16 +4,17 @@
     "port": 6667,
     "secure": 0,
     "server_validate": false,
-    "user": "USER C3PO 127.0.0.1 lance :C3PO",
-    "nick": "C3PO",
-	"name": "C3PO",
+    "user": "GM  127.0.0.1 lance :GM",
+    "nick": "GM",
+	"name": "GM",
     "channels": [
-            "#orbsix"
+            "#arena"
     ],
     "admins": [
         "Lance",
         "Josh",
         "Ben"
     ],
-    "command_start": "~"
+    "command_start": "~",
+	"join_greeting": "{0}, Welcome to the arena.  Type ~help for more information."
 }

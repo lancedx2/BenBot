@@ -90,6 +90,22 @@ class connection extends base {
 
 	}
 
+	function handleEvents() {
+		
+		$strip_chars = array("\r", "\n");
+        $event = str_replace($strip_chars, '', $this->ex[1]);
+        if (file_exists("lib/events/$event/$event.class.php")) {
+            require_once "lib/events/$event/$event.class.php";
+            $eventObj = new $event($this->ex);
+            if ($eventObj->response != '') {
+                $this->sendData($eventObj->response);
+            }
+        } else {
+            $this->logger("lib/events/$event/$event.class.php does not exist.");
+        }
+
+	}
+
 	function parseStream() {
 		
 		$command = @ltrim($this->ex[3], ':');
@@ -114,12 +130,13 @@ class connection extends base {
 			$data = fgets($this->socket, 128);
 			$this->ex = explode(' ', $data);
 			
-			echo $data;
+			// echo $data;
 
 			if ($this->ex[0] == 'PING') {
 				$this->sendData('PONG', $this->ex[1]);
 			}
 
+			$this->handleEvents();
 			$this->parseStream();
 			
 			unset($data);
