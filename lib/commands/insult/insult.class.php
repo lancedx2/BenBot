@@ -1,12 +1,15 @@
 <?PHP
 require_once 'lib/base.class.php';
+require_once 'lib/commandInterface.php';
 
-class insult extends base {
+class insult extends base implements icommand {
 
-	public $response;
+	private $response;
 
-	function __construct($channel, $params) {
-		
+	function __construct() {
+	}
+
+	function handleCommand($channel, $params) {
 		$file = file_get_contents('lib/commands/insult/insults.json');
 		$file = trim($file);
 		$insults = json_decode($file, true);
@@ -14,16 +17,16 @@ class insult extends base {
 		$this->logger('found ' . count($insults) . ' insults!');
 		$random = rand(0, count($insults) - 1);
 	
-		$target = $params[0];
-		$crlf = array("\r", "\n");
-		$target = str_replace($crlf, '', $target);
+		$target = $this->removeCRLF($params[0]);
 
 		$sentence = str_replace('{0}', $target, $insults[$random]);
-
-		$sentence = str_replace($crlf, '', $sentence);
+		$sentence = $this->removeCRLF($sentence);
 
 		$this->response = 'PRIVMSG ' . $channel . ' :' . $sentence;
+	}
 
+	function getResponse() {
+		return $this->response;
 	}
 
 }

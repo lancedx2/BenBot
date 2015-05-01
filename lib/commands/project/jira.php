@@ -24,7 +24,7 @@ class jira {
 
 
 	    return json_encode(array(
-	    			"status" => $jira_project->issues[0]->fields->status->name,
+	 			"status" => $jira_project->issues[0]->fields->status->name,
 				"summary" => $jira_project->issues[0]->fields->summary
 				));
     }

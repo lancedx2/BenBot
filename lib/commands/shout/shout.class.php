@@ -1,22 +1,10 @@
 <?PHP
-require_once 'lib/base.class.php';
+require_once 'lib/commands/say/say.class.php';
 
-class shout extends base {
+class shout extends say {
 
-	public $response;
-
-	function __construct($channel, $params) {
-
-		$sentence = '';
-		// reconstruct the params
-		foreach($params as $word) {
-			$sentence .= $word . ' ';
-		}
-
-		$sentence = trim($sentence);
-
-		$this->response = 'PRIVMSG ' . $channel . ' :' . strtoupper($sentence);
-
+	function getResponse() {
+		return strtoupper($this->response);
 	}
 
 }

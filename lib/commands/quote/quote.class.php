@@ -1,22 +1,26 @@
 <?PHP
 require_once 'lib/base.class.php';
+require_once 'lib/commandInterface.php';
 
-class quote extends base {
+class quote extends base implements icommand {
 
-	public $response;
+	private $response, $quotes;
 
-	function __construct($channel, $params) {
-		
+	function __construct() {
 		$file = file_get_contents('lib/commands/quote/quotes.json');
 		$file = trim($file);
-		$quotes = json_decode($file, true);
+		$this->quotes = json_decode($file, true);
+	}
+	
+	function handleCommand($channel, $params) {
+		$this->logger('found ' . count($this->quotes) . ' quotes!');
+		$random = rand(0, count($this->quotes) - 1);
 
-		$this->logger('found ' . count($quotes) . ' quotes!');
-		$random = rand(0, count($quotes) - 1);
+		$this->response = 'PRIVMSG ' . $channel . ' :' . $this->quotes[$random];
+	}
 
-
-		$this->response = 'PRIVMSG ' . $channel . ' :' . $quotes[$random];
-
+	function getResponse() {
+		return $this->response;
 	}
 
 }

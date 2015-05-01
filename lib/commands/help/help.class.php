@@ -1,12 +1,15 @@
 <?PHP
 require_once 'lib/base.class.php';
+require_once 'lib/commandInterface.php';
 
-class help extends base {
+class help extends base implements icommand {
 
-	public $response;
+	private $response;
 
-	function __construct($channel, $params) {
+	function __construct() {
+	}
 
+	function handleCommand($channel, $params) {
 		$sentence = '';
 		// reconstruct the params
 
@@ -16,8 +19,12 @@ class help extends base {
 		}
 
 		$this->response = 'PRIVMSG ' . $channel . ' : Current available commands are: ' . $sentence;
-
 	}
+
+	function getResponse() {
+		return $this->response;
+	}
+
 
 }
 

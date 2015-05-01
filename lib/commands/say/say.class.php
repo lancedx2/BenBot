@@ -1,12 +1,15 @@
 <?PHP
 require_once 'lib/base.class.php';
+require_once 'lib/commandInterface.php';
 
-class say extends base {
+class say extends base implements icommand {
 
-	public $response;
+	protected $response;
 
-	function __construct($channel, $params) {
-
+	function __construct() {
+	}
+	
+	function handleCommand($channel, $params) {
 		$sentence = '';
 		// reconstruct the params
 		foreach($params as $word) {
@@ -14,9 +17,11 @@ class say extends base {
 		}
 
 		$this->response = 'PRIVMSG ' . $channel . ' :' . $sentence;
+	}
 
+	function getResponse() {
+		return $this->response;
 	}
 
 }
-
 ?>
