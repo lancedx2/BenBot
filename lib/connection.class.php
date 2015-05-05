@@ -7,9 +7,11 @@ class connection extends base {
 	
 	var $socket, $ex, $config;
 	var $run = true;
+        var $commands = array();
 
 	function __construct($config) {
 		$this->config = $config;
+		$this->setupCommands();
 		$this->connect();
 		$this->login();
 		$this->joinChannel();
@@ -64,12 +66,22 @@ class connection extends base {
 
 	}
 
+        function setupCommands() {
+            $files = glob("lib/commands/*/*.class.php");
+            foreach($files as $commandfile) {
+                $command = substr($commandfile, strrpos($commandfile, "/", -1)+1, strpos($commandfile, ".", 1) - strrpos($commandfile, "/", -1)-1);
+                $this->logger($commandfile . " class " . $command);
+                require_once $commandfile;
+                $commandObj = new $command();
+                $this->commands[$command] = $commandObj;
+            }
+        }
+
 	function doCommand($channel, $command, $params) {
 		$command = $this->removeCRLF($command);
-		
-		if (file_exists("lib/commands/$command/$command.class.php")) {
-			require_once "lib/commands/$command/$command.class.php";
-			$commandObj = new $command($channel, $params);
+		$this->setupCommands();
+                if(isset($this->commands[$command])) {
+                        $commandObj = $this->commands[$command];
 			
 			if ($commandObj instanceof icommand) {
 				$commandObj->handleCommand($channel, $params);
@@ -90,6 +102,9 @@ class connection extends base {
 			}
 
 		} else {
+                        if (isset($this->commands[$command])) {
+                            unset($this->commands[$command]);
+                        }
 			$this->logger("lib/commands/$command/$command.class.php does not exist.");
 		}
 
