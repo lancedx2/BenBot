@@ -71,9 +71,11 @@ class connection extends base {
             foreach($files as $commandfile) {
                 $command = substr($commandfile, strrpos($commandfile, "/", -1)+1, strpos($commandfile, ".", 1) - strrpos($commandfile, "/", -1)-1);
                 $this->logger($commandfile . " class " . $command);
-                require_once $commandfile;
-                $commandObj = new $command();
-                $this->commands[$command] = $commandObj;
+                if (!isset($this->commands[$command])) {
+                    require_once $commandfile;
+                    $commandObj = new $command();
+                    $this->commands[$command] = $commandObj;
+                }
             }
         }
 
