@@ -23,9 +23,9 @@ class say extends base implements icommand {
 		$this->response = 'PRIVMSG ' . $channel . ' :' . $sentence;
 	}
 
-        function getHelp($user, $channel) {
-                $this->response = 'PRIVMSG ' . $channel . ' :~say <#channel> to have me say something, optionally in a channel.';
-        }
+	function getHelp($user, $channel) {
+        	$this->response = 'PRIVMSG ' . $channel . ' :~say <#channel> to have me say something, optionally in a channel.';
+	}
 
 	function getResponse() {
 		return $this->response;
