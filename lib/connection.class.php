@@ -156,11 +156,18 @@ class connection extends base {
 			$command = ltrim($command, $this->config['command_start']);
 			$params = array_slice($this->ex, 4);
 			$channel = $this->ex[2];
-                        if ($channel == $this->config['nick']) {
-                            $channel = $user; // It was a msg.
-                        }
+            
+			if ($channel == $this->config['nick']) {
+            	$channel = $user; // It was a msg.
+            }
 			$this->logger("USER: $user CHANNEL: $channel COMMAND: $command");
 			
+
+			if (substr($params[0], 0, 1) == "#") {
+				// This is a channel specification
+				$channel = array_shift($params);
+			}
+
 			foreach ($params as $param) {
 				$this->logger("\tPARAM: " . $param);
 			}
@@ -175,7 +182,6 @@ class connection extends base {
 		do {
 			$data = fgets($this->socket, 128);
 			$this->ex = explode(' ', $data);
-                        $this->logger("RECEIVED DATA: $data");
 			
 			if ($this->ex[0] == 'PING') {
 				$this->sendData('PONG', $this->ex[1]);

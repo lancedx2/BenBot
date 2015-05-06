@@ -17,7 +17,11 @@ class insult extends base implements icommand {
 		$this->logger('found ' . count($insults) . ' insults!');
 		$random = rand(0, count($insults) - 1);
 	
-		$target = $this->removeCRLF($params[0]);
+		$target = '';
+		foreach($params as $param) {
+			$target .= $this->removeCRLF($param) . ' ';
+		}
+		$target = trim($target);
 
 		$sentence = str_replace('{0}', $target, $insults[$random]);
 		$sentence = $this->removeCRLF($sentence);

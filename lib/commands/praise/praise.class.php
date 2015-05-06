@@ -16,7 +16,12 @@ class praise extends base implements icommand {
 
 		$this->logger('found ' . count($praises) . ' praises!');
 		$random = rand(0, count($praises) - 1);
-		$target = $this->removeCRLF($params[0]);
+		
+		$target = '';
+		foreach($params as $param) {
+			$target .= $this->removeCRLF($param) . ' ';
+		}
+		$target = trim($target);
 
 		$sentence = str_replace('{0}', $target, $praises[$random]);
 		$sentence = $this->removeCRLF($sentence);

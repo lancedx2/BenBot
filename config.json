@@ -4,11 +4,11 @@
     "port": 6667,
     "secure": 0,
     "server_validate": false,
-    "user": "TesterBot  127.0.0.1 lance :TesterBot",
-    "nick": "TesterBot",
-	"name": "TesterBot",
+    "user": "C3PO  127.0.0.1 lance :C3PO",
+    "nick": "C3PO",
+	"name": "C3PO",
     "channels": [
-            "#testing"
+            "#orbsix"
     ],
     "admins": [
         "Lance",
@@ -16,5 +16,5 @@
         "Ben"
     ],
     "command_start": "~",
-	"join_greeting": "{0}, I am a testerbot!!  Help, I am like a baby otter out of water!.  Type ~help for more information."
+	"join_greeting": "Hello {0}, I am a C3PO, Human-cyborg relations droid.  I speak a bajillion languages.  Type ~help for more information."
 }
