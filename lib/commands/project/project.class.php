@@ -8,10 +8,10 @@ class project extends base implements icommand {
 	private $response, $jira;
 
 	function __construct() {
-		$this->jira = new jira();
+            $this->jira = new jira();
 	}
 
-	function handleCommand($channel, $params) { 
+	function handleCommand($user, $channel, $params) { 
 		
 		foreach ($params as $param) {
 			$param = $this->removeCRLF($param);
@@ -22,6 +22,10 @@ class project extends base implements icommand {
 		}
 
 	}
+
+        function getHelp($user, $channel) {
+                $this->response = 'PRIVMSG ' . $channel . ' :~project PROJ_ID for details of a project!';
+        }
 
 	function getResponse() {
 		return $this->response;

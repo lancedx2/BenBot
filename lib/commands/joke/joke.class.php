@@ -9,7 +9,7 @@ class joke extends base implements icommand {
 	function __construct() {
 	}
 	
-	function handleCommand($channel, $params) {
+	function handleCommand($user, $channel, $params) {
 		$file = file_get_contents('lib/commands/joke/jokes.json');
 		$file = trim($file);
 		$quotes = json_decode($file, true);
@@ -19,6 +19,10 @@ class joke extends base implements icommand {
 
 		$this->response = 'PRIVMSG ' . $channel . ' :' . $quotes[$random];
 	}
+
+        function getHelp($user, $channel) {
+            $this->response = 'PRIVMSG ' . $channel . ' :~joke to have me say a random joke!';
+        }
 
 	function getResponse() {
 		return $this->response;

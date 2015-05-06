@@ -9,8 +9,12 @@ class say extends base implements icommand {
 	function __construct() {
 	}
 	
-	function handleCommand($channel, $params) {
+	function handleCommand($user, $channel, $params) {
 		$sentence = '';
+                if (strpos($params[0], "#") !== false) {
+                    $channel = array_shift($params);
+                }
+
 		// reconstruct the params
 		foreach($params as $word) {
 			$sentence .= $word . ' ';
@@ -18,6 +22,10 @@ class say extends base implements icommand {
 
 		$this->response = 'PRIVMSG ' . $channel . ' :' . $sentence;
 	}
+
+        function getHelp($user, $channel) {
+                $this->response = 'PRIVMSG ' . $channel . ' :~say <#channel> to have me say something, optionally in a channel.';
+        }
 
 	function getResponse() {
 		return $this->response;

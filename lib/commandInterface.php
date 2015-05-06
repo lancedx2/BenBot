@@ -1,6 +1,7 @@
 <?php
 interface icommand {
-	function handleCommand($channel, $params);
+	function handleCommand($user, $channel, $params);
 	function getResponse();
+        function getHelp($user, $channel);
 }
 ?>

@@ -9,7 +9,7 @@ class insult extends base implements icommand {
 	function __construct() {
 	}
 
-	function handleCommand($channel, $params) {
+	function handleCommand($user, $channel, $params) {
 		$file = file_get_contents('lib/commands/insult/insults.json');
 		$file = trim($file);
 		$insults = json_decode($file, true);
@@ -24,6 +24,10 @@ class insult extends base implements icommand {
 
 		$this->response = 'PRIVMSG ' . $channel . ' :' . $sentence;
 	}
+
+        function getHelp($user, $channel) {
+                $this->response = 'PRIVMSG ' . $channel . ' :~insult to insult someone.';
+        }
 
 	function getResponse() {
 		return $this->response;

@@ -9,7 +9,11 @@ class help extends base implements icommand {
 	function __construct() {
 	}
 
-	function handleCommand($channel, $params) {
+        function handleCommand($user, $channel, $params) {
+            $this->getHelp($user, $channel);
+        }
+
+	function getHelp($user, $channel) {
 		$sentence = '';
 		// reconstruct the params
 
@@ -18,7 +22,7 @@ class help extends base implements icommand {
 			$sentence .= $dirname . ' ';
 		}
 
-		$this->response = 'PRIVMSG ' . $channel . ' : Current available commands are: ' . $sentence;
+		$this->response = 'PRIVMSG ' . $channel . ' : Current available commands are: ' . rtrim($sentence) . ". ~<command> help to get more info.";
 	}
 
 	function getResponse() {
