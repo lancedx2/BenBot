@@ -8,7 +8,6 @@ class project extends base implements icommand {
 	private $response, $jira;
 
 	function __construct() {
-            $this->commands = array("project");
             $this->jira = new jira();
 	}
 

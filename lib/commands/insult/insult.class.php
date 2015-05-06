@@ -7,7 +7,6 @@ class insult extends base implements icommand {
 	private $response;
 
 	function __construct() {
-            $this->commands = array("insult");
 	}
 
 	function handleCommand($user, $channel, $params) {

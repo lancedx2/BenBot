@@ -7,7 +7,6 @@ class joke extends base implements icommand {
 	private $response;
 
 	function __construct() {
-            $this->commands = array("joke");
 	}
 	
 	function handleCommand($user, $channel, $params) {

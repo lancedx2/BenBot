@@ -7,7 +7,6 @@ class quote extends base implements icommand {
 	private $response, $quotes;
 
 	function __construct() {
-                $this->commands = array("quote");
 		$file = file_get_contents('lib/commands/quote/quotes.json');
 		$file = trim($file);
 		$this->quotes = json_decode($file, true);

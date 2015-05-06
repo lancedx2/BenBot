@@ -73,14 +73,7 @@ class connection extends base {
                 if(!class_exists($command)) {
                     require_once $commandfile;
                     $commandObj = new $command();
-                    foreach($commandObj->commands as $specific_command) {
-
-                        if (!@isset($this->commands[$specific_command])) {
-                            $this->commands[$specific_command] = $commandObj;
-                        } else {
-                            $this->logger("COMMAND ERROR: When registering command $specific_command for class " . get_class($commandObj) . " found an already registered command to class " . get_class($this->commands[$specific_command]));
-                        }
-                    }
+                    $this->commands[$command] = $commandObj;
                 }
             }
         }

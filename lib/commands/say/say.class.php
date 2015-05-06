@@ -7,7 +7,6 @@ class say extends base implements icommand {
 	protected $response;
 
 	function __construct() {
-            $this->commands = array("say");
 	}
 	
 	function handleCommand($user, $channel, $params) {

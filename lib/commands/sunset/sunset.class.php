@@ -7,7 +7,6 @@ class sunset extends base implements icommand {
 	private $response;
 
 	function __construct() {
-            $this->commands = array("sunset");
 	}
 	
 	function handleCommand($user, $channel, $params) {

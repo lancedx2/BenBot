@@ -7,7 +7,6 @@ class praise extends base implements icommand {
 	private $response;
 
 	function __construct() {
-            $this->commands = array("praise");
 	}
 	
 	function handleCommand($user, $channel, $params) {

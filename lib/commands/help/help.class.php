@@ -7,7 +7,6 @@ class help extends base implements icommand {
 	private $response;
 
 	function __construct() {
-            $this->commands = array("help");
 	}
 
         function handleCommand($user, $channel, $params) {
